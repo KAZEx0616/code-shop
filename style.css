@@ -1,0 +1,23 @@
+img {
+  width: 250px;
+  height: 125px;
+}
+button {
+  text-transform: uppercase;
+  padding: 10px;
+  background-color: blue;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 9.5%;
+}
+table {
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+th,
+td {
+  border: 1px solid red;
+  padding: 10px;
+  text-align: center;
+}
